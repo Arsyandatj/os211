@@ -27,3 +27,10 @@ ZCZC W03 30 L03 GitHub related
 ZCZC W03 100 L02 ZOOM related
 ZCZC W03 50 L23 Discord: discussion, etc.
 ZCZC W03 50 L14 Assignment #4
+ZCZC W04 50 L05 GSGS related
+ZCZC W04 100 L02 ZOOM related
+ZCZC W04 60 L10 Assignment
+ZCZC W04 50 Github related
+ZCZC W04 20 L01 Scele related
+ZCZC W04 50 L03 GitHub related
+
