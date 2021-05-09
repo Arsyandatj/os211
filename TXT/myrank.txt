@@ -17,5 +17,8 @@ ZCZC W05 aryaputr213
 ZCZC W06 bintangdom
 ZCZC W06 aryudaokta
 ZCZC W06 bimabr
+ZCZC W07 azricot
+ZCZC W07 aryaputr213
+ZCZC W07 astriddiany
 
 
