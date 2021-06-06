@@ -63,6 +63,12 @@ ZCZC W09 60 L10 Assignment
 ZCZC W09 50 Github related
 ZCZC W09 20 L01 Scele related
 ZCZC W09 50 L03 GitHub related
+ZCZC W10 50 L05 GSGS related
+ZCZC W10 100 L02 ZOOM related
+ZCZC W10 60 L10 Assignment
+ZCZC W10 50 Github related
+ZCZC W10 20 L01 Scele related
+ZCZC W10 50 L03 GitHub related
 
 
 
